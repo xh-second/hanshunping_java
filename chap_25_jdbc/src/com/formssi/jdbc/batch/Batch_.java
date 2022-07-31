@@ -1,6 +1,6 @@
 package com.formssi.jdbc.batch;
 
-import com.formssi.utils.com.formssi.JDBCUtils;
+import com.formssi.utils.JDBCUtils;
 import org.junit.Test;
 
 import java.sql.Connection;

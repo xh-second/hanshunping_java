@@ -1,4 +1,4 @@
-package com.formssi.utils.com.formssi;
+package com.formssi.utils;
 
 import java.io.FileInputStream;
 import java.io.IOException;

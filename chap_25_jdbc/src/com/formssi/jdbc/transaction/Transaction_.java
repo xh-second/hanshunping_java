@@ -1,16 +1,12 @@
 package com.formssi.jdbc.transaction;
 
-import com.formssi.utils.com.formssi.JDBCUtils;
+import com.formssi.utils.JDBCUtils;
 import org.junit.Test;
 
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.sql.Connection;
-import java.sql.DriverManager;
 import java.sql.PreparedStatement;
 import java.sql.SQLException;
-import java.util.Properties;
 
 /**
  *

@@ -1,6 +1,6 @@
 package com.formssi.test;
 
-import com.formssi.utils.JDBCUtils;
+import com.formssi.utils.com.formssi.JDBCUtils;
 import org.junit.Test;
 
 import java.sql.Connection;
